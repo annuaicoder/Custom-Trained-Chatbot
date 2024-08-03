@@ -1,7 +1,7 @@
 # Custom-Trained-Chatbot
 This is a custom trained chatbot built with json and python
 
-# Installtion and setup
+# Installation and setup
 Use pip install json to install the json library, or use pip install -r requirements.txt
 
 # Executing the program
